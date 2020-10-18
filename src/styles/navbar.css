@@ -1,0 +1,19 @@
+.navbar {
+  height: "100px";
+  display: "flex";
+  justify-content: "center";
+  background: ghostwhite;
+  margin-bottom: 20px;
+}
+
+.cols {
+  margin: auto;
+}
+
+.profile {
+  float: right;
+}
+
+.content {
+  align-items: center;
+}
